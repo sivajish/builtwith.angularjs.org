@@ -3589,10 +3589,14 @@
       "submitter": "sivajish",
       "submissionDate": "2014-11-10",
       "tags": [
+        "Production",
+        "Kitchen",
+        "Cook",
+        "Recipes",
+        "Food",
         "Java",
-        "Indian Food Recipe Website",
-        "Cooking Recipes",
-        "Spicy Indian Food",
+        "API",
+        "Google App Engine",
         "jQuery",
         "Bootstrap"
       ]	
