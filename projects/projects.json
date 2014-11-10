@@ -3580,7 +3580,22 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "AhaarRecipes",
+      "thumb": "ahaar/thumb.png",
+      "desc": "Ahaar Recipes is a small website which contains authentic Indian and Indo-Chinese cooking recipes.",
+      "url": "http://ahaar.scholayil.com/",
+      "submitter": "sivajish",
+      "submissionDate": "2014-11-10",
+      "tags": [
+        "Java",
+        "Indian Food Recipe Website",
+        "Cooking Recipes",
+        "Spicy Indian Food",
+        "jQuery",
+        "Bootstrap"
+      ]	
     }
-
   ]
 }
